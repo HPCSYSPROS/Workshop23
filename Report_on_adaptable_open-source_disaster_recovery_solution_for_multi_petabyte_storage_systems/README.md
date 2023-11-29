@@ -1,0 +1,9 @@
+# Report on Adaptable Open-Source Disaster Recovery Solution for Multi-Petabyte Storage Systems
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10222743.svg)](https://doi.org/10.5281/zenodo.10222743)
+
+**Authors**
+* Honwai Leong, University of Sydney, DDN
+
+**Abstract:**
+The current generation of Research Data Store (RDS) at The University of Sydney comprises a pair of peta-scale data storage systems. We implemented a disaster recovery (DR) solution for data protection against catastrophic failure at either storage system. To handle large amount of data transactions into RDS, we took an open-source approach to design an adaptable DR solution that enables parallelized data replication capability between the pair of storage systems. In the last three years of operations, the DR solution has gone through a few iterations which saw improvement in efficiency. In this paper, we present the findings and outcomes from our DR implementation
