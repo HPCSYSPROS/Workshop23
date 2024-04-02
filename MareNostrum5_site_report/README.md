@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10223487.svg)](https://doi.org/10.5281/zenodo.10223487)
 
 **Authors**
-* Sergi Girona, Barcelona Supercomputing Center
+* Dr. Sergi Girona, Barcelona Supercomputing Center
 
 
 **Abstract:**
